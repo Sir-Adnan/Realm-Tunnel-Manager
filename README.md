@@ -28,7 +28,7 @@
 کافیست دستور زیر را در ترمینال سرور خود (اوبونتو، دبیان و...) کپی و اجرا کنید:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Sir-Adnan/realm-tunnel/main/realm.sh)
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Sir-Adnan/Realm-Tunnel-Manager/main/realm.sh)
 
 ```
 
